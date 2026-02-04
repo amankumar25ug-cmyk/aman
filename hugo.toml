@@ -1,0 +1,4 @@
+baseURL =  "https://amankumar25ug-cmyk.github.io/aman/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
